@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "id": "lmimoh",
+      "profile": "https://cdn.pixabay.com/photo/2020/05/17/20/21/cat-5183427_960_720.jpg"
+    }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "task": "밥 챙겨먹기",
+      "state": false
+    },
+    {
+      "id": 2,
+      "task": "영어 단어 외우기",
+      "state": true
+    },
+    {
+      "task": "밥 잘먹자요",
+      "state": false,
+      "id": 3
+    }
+  ]
+}
