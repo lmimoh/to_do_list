@@ -1,0 +1,21 @@
+{
+  "user": [
+    {
+      "id": "lmimoh",
+      "profile": "https://cdn.pixabay.com/photo/2020/05/17/20/21/cat-5183427_960_720.jpg",
+      "state": false
+    }
+  ],
+  "todos": [
+    {
+      "task": "운동하기",
+      "state": false,
+      "id": 5
+    },
+    {
+      "task": "양치하기",
+      "state": false,
+      "id": 6
+    }
+  ]
+}
